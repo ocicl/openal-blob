@@ -1,0 +1,9 @@
+* openal-blob
+
+Foreign library collection for bodge-openal.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/borodust/openal-blob.git |
+| commit  | 806d5a3                                           |
+| systems | openal-blob                                       |
+|---------+---------------------------------------------------|
